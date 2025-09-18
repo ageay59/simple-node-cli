@@ -1,0 +1,45 @@
+[
+    {
+        "name": "France",
+        "people": [
+            {
+                "name": "Paul",
+                "animals": [
+                    {
+                        "name": "Dog"
+                    },
+                    {
+                        "name": "Cat"
+                    },
+                    {
+                        "name": "Frog"
+                    }
+                ]
+            },
+            {
+                "name": "Jean",
+                "animals": [
+                    {
+                        "name": "Bird"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Germany",
+        "people": [
+            {
+                "name": "Guntar",
+                "animals": [
+                    {
+                        "name": "Fish"
+                    },
+                    {
+                        "name": "Snake"
+                    }
+                ]
+            }
+        ]
+    }
+]
